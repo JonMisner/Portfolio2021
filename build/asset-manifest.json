@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio.github.io/static/css/main.b475ec51.chunk.css",
+    "main.js": "/Portfolio.github.io/static/js/main.8a95cda3.chunk.js",
+    "main.js.map": "/Portfolio.github.io/static/js/main.8a95cda3.chunk.js.map",
+    "runtime-main.js": "/Portfolio.github.io/static/js/runtime-main.26b188b0.js",
+    "runtime-main.js.map": "/Portfolio.github.io/static/js/runtime-main.26b188b0.js.map",
+    "static/css/2.150d169a.chunk.css": "/Portfolio.github.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.fe94a2b5.chunk.js": "/Portfolio.github.io/static/js/2.fe94a2b5.chunk.js",
+    "static/js/2.fe94a2b5.chunk.js.map": "/Portfolio.github.io/static/js/2.fe94a2b5.chunk.js.map",
+    "static/js/3.0926d87b.chunk.js": "/Portfolio.github.io/static/js/3.0926d87b.chunk.js",
+    "static/js/3.0926d87b.chunk.js.map": "/Portfolio.github.io/static/js/3.0926d87b.chunk.js.map",
+    "index.html": "/Portfolio.github.io/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Portfolio.github.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b475ec51.chunk.css.map": "/Portfolio.github.io/static/css/main.b475ec51.chunk.css.map",
+    "static/js/2.fe94a2b5.chunk.js.LICENSE.txt": "/Portfolio.github.io/static/js/2.fe94a2b5.chunk.js.LICENSE.txt",
+    "static/media/Coding-Resume.87d513e1.pdf": "/Portfolio.github.io/static/media/Coding-Resume.87d513e1.pdf",
+    "static/media/UMEWE.b027b370.png": "/Portfolio.github.io/static/media/UMEWE.b027b370.png",
+    "static/media/burger.b06bd235.png": "/Portfolio.github.io/static/media/burger.b06bd235.png",
+    "static/media/contact-info.4d24d758.png": "/Portfolio.github.io/static/media/contact-info.4d24d758.png",
+    "static/media/logo.6619be81.png": "/Portfolio.github.io/static/media/logo.6619be81.png",
+    "static/media/me.1cc83667.jpg": "/Portfolio.github.io/static/media/me.1cc83667.jpg",
+    "static/media/outofoffice.718d4dca.png": "/Portfolio.github.io/static/media/outofoffice.718d4dca.png",
+    "static/media/planner.131ef3bf.png": "/Portfolio.github.io/static/media/planner.131ef3bf.png",
+    "static/media/portrait.6908390e.png": "/Portfolio.github.io/static/media/portrait.6908390e.png",
+    "static/media/quiz.42174881.png": "/Portfolio.github.io/static/media/quiz.42174881.png",
+    "static/media/weather.cb0257f4.png": "/Portfolio.github.io/static/media/weather.cb0257f4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26b188b0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.fe94a2b5.chunk.js",
+    "static/css/main.b475ec51.chunk.css",
+    "static/js/main.8a95cda3.chunk.js"
+  ]
+}
