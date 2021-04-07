@@ -31,19 +31,6 @@ function About() {
               A fresh full stack developer, I’m ready to create and develop a stunning UX in web applications. I studied at Northwestern University where I gained skills in several different web development technologies, with an emphasis on MERN .  My background is in the Service Industry (with my passion being wine and cocktails) and I can bring that work ethic over with me to this new field. With an emphasis on mobile friendly and responsive designs, my goal is to provide polished, sleek, and engaging web applications. Furthermore, I strive to make the UI approachable, and intuitively easy to use for even novice users. Group projects have been a highlight of my coding experience, and I look forward to collaborating with other talented developers and engineers..
               </p>
             </div>
-
-            {/* <div className="col about-section-font">
-              <h3 className="about-section-header" id="word-wrap">Problem Solver</h3>
-              <p className="about-paragraphs">
-                A fresh full stack developer, I’m ready to create and develop a stunning UX in web applications. I studied at Northwestern University where I gained skills in several different web development technologies, with an emphasis on MERN .  My background is in the Service Industry (with my passion being wine and cocktails) and I can bring that work ethic over with me to this new field. With an emphasis on mobile friendly and responsive designs, my goal is to provide polished, sleek, and engaging web applications. Furthermore, I strive to make the UI approachable, and intuitively easy to use for even novice users. Group projects have been a highlight of my coding experience, and I look forward to collaborating with other talented developers and engineers..</p>
-            </div>
-            <div className="col about-section-font">
-              <h3 className="about-section-header">Dreamer</h3>
-              <p className="about-paragraphs">
-                My mind has no limits and I am a fan of the creative, the imagination, and even the impossible. I am a
-                huge thinker and a curious person.
-              </p>
-            </div> */}
           </Row>
         </Row>
     
