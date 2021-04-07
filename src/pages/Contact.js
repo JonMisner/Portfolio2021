@@ -92,68 +92,13 @@ function Contact(props) {
                     </Card>
                   </Row>
                 </>
-              {/* )} */}
-              {/* {isTabletOrPhone && (
-                <>
-                  <hr className="my-4" />
-                  <Row className="d-flex justify-content-center">
-                    <Card className="m-3">
-                      <CardHeader tag="h3">
-                        <Row className="justify-content-center">Jon Misner</Row>
-                      </CardHeader>
-                      <CardBody>
-                        <Row className="justify-content-center mt-3">
-                          <CardTitle className="lead font-weight-bold">
-                            Full Stack Developer
-                          </CardTitle>
-                        </Row>
-                        <hr />
-                        <Row>
-                          <Col className="text-center">
-                            <NavLink
-                              href="mailto:jonmisner86@gmail.com"
-                              target="_blank"
-                            >
-                              <img
-                                className="logo"
-                                src={emailLogo}
-                                alt="Logo"
-                              />
-                            </NavLink>
-                            <NavLink
-                              href="https://www.linkedin.com/in/joe-young-8a499a18a/"
-                              target="_blank"
-                            >
-                              <img
-                                className="logo"
-                                src={linkedinLogo}
-                                alt="Logo"
-                              />
-                            </NavLink>
-                            <NavLink
-                              href="https://github.com/JYoung32"
-                              target="_blank"
-                            >
-                              <img
-                                className="logo"
-                                src={githubLogo}
-                                alt="Logo"
-                              />
-                            </NavLink>
-                          </Col>
-                        </Row>
-                      </CardBody>
-                    </Card>
-                  </Row>
-                </>
-              )} */}
+        
             </div>
           </Row>
           <Row>
             <Col size="sm-12" id="copyright">
               <p>
                 &#169;Jonathon Misner 2021
-                {/* <img src={Rainbow} id="rainbow"src="assets/images/rainbow.png" alt="rainbow" /> */}
               </p>
             </Col>
           </Row>

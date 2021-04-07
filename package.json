@@ -1,14 +1,13 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://alexandra-hionis.github.io/Portfolio.github.io/",
+  "homepage": "https://jonmisner.github.io/Portfolio2021/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.2",
     "bootstrap": "^4.6.0",
-    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-bootstrap": "^1.4.3",
@@ -45,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }

@@ -8,21 +8,12 @@ function Header() {
     <header className="header" id="myHeader">
       <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
-          <Link
-            to="/Home"
-            className={
-              window.location.pathname === "/Home" ||
-              window.location.pathname === "/home"
-                ? "nav-link active"
-                : "navbar-brand"
-            }
-          >
-            {/* <img src={Logo} id="logo" alt="logo"/> */}
+          <a href="#home" className="nav-link active navbar-brand">
             <h1 id="top-logo">JM</h1>
-          </Link>
+          </a>
 
           <button
-            className="navbar-toggler"
+            className="navbar-toggler float-left"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"
@@ -35,43 +26,19 @@ function Header() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <Link
-                  to="/About"
-                  className={
-                    window.location.pathname === "/About" ||
-                    window.location.pathname === "/about"
-                      ? "nav-link active"
-                      : "nav-link"
-                  }
-                >
+                <a href="#about" className="nav-link active nav-link">
                   About
-                </Link>
+                </a>
               </li>
               <li className="nav-item">
-                <Link
-                  to="/Projects"
-                  className={
-                    window.location.pathname === "/Projects" ||
-                    window.location.pathname === "projects"
-                      ? "nav-link active"
-                      : "nav-link"
-                  }
-                >
+                <a href="#project" className="nav-link activenav-link">
                   Projects
-                </Link>
+                </a>
               </li>
               <li className="nav-item">
-                <Link
-                  to="/Contact"
-                  className={
-                    window.location.pathname === "/Contact" ||
-                    window.location.pathname === "/contact"
-                      ? "nav-link active"
-                      : "nav-link"
-                  }
-                >
+                <a href="#contact" className="nav-link active nav-link">
                   Contact
-                </Link>
+                </a>
               </li>
               <li className="nav-item">
                 <a

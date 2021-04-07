@@ -92,19 +92,7 @@ const Projects = (props) => {
 
   const slides = items.map((item) => {
     return (
-      //       <>
-      //           <div ClassName = "body">
-      //                     <section id="project">
-      //                         <Container>
-      //         <Row>
-      //           <Col size="sm-12" ClassName="portfolio">
-      //             <p><span className="slide-right-font"> Projects </span></p>
-      //           </Col>
-      //         </Row>
-      //         </Container>
-      // </section>
-      // </div>
-
+   
       <CarouselItem
         data-interval="7000"
         onExiting={() => setAnimating(true)}
