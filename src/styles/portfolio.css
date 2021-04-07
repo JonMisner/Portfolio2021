@@ -1,6 +1,4 @@
-/* .projects, #project {
-   background-color: #3385c6;
-} */
+
 
 
 .slides {
@@ -25,7 +23,6 @@
    height: 75px;
    width: 75px;
    outline: 2d3e50;
-   /* background-color: #1f8dd6; */
    background-color: rgb(80,114,249);
    background-size: 100%, 100%;
    border-radius: 50%;
@@ -54,7 +51,6 @@
  }
 
  body{ 
-   /* background-color: #3385c6; */
    color: white;
    min-width: 800px;
    min-height: 700px;
