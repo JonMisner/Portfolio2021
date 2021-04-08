@@ -8,8 +8,8 @@ html,body
 }
 
 /* link styles */ 
-a.nav-link:hover {
-    color: black;
+.nav-link:hover {
+    color: #3385c6;
 }
 
 /* header styles */
@@ -219,6 +219,15 @@ max-width:100%;
 .about-photo-text-align {
     text-align: center;
     margin-bottom: 10%;
+}
+
+.col{
+    padding: 0 !important;
+    width: 10% !important;
+}
+
+.img-fluid {
+    width: 100% !important;
 }
 
 /* portfolio section */
