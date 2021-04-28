@@ -1,21 +1,5 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/Portfolio2021/static/css/main.fd8adfa8.chunk.css",
-    "main.js": "/Portfolio2021/static/js/main.b3c5f56d.chunk.js",
-    "main.js.map": "/Portfolio2021/static/js/main.b3c5f56d.chunk.js.map",
-    "runtime-main.js": "/Portfolio2021/static/js/runtime-main.07621c5b.js",
-    "runtime-main.js.map": "/Portfolio2021/static/js/runtime-main.07621c5b.js.map",
-    "static/css/2.150d169a.chunk.css": "/Portfolio2021/static/css/2.150d169a.chunk.css",
-    "static/js/2.16866c17.chunk.js": "/Portfolio2021/static/js/2.16866c17.chunk.js",
-    "static/js/2.16866c17.chunk.js.map": "/Portfolio2021/static/js/2.16866c17.chunk.js.map",
-    "static/js/3.3df9e824.chunk.js": "/Portfolio2021/static/js/3.3df9e824.chunk.js",
-    "static/js/3.3df9e824.chunk.js.map": "/Portfolio2021/static/js/3.3df9e824.chunk.js.map",
-    "index.html": "/Portfolio2021/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/Portfolio2021/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.fd8adfa8.chunk.css.map": "/Portfolio2021/static/css/main.fd8adfa8.chunk.css.map",
-    "static/js/2.16866c17.chunk.js.LICENSE.txt": "/Portfolio2021/static/js/2.16866c17.chunk.js.LICENSE.txt",
-=======
     "main.css": "/Portfolio2021/static/css/main.68794c72.chunk.css",
     "main.js": "/Portfolio2021/static/js/main.48c16107.chunk.js",
     "main.js.map": "/Portfolio2021/static/js/main.48c16107.chunk.js.map",
@@ -30,7 +14,6 @@
     "static/css/2.150d169a.chunk.css.map": "/Portfolio2021/static/css/2.150d169a.chunk.css.map",
     "static/css/main.68794c72.chunk.css.map": "/Portfolio2021/static/css/main.68794c72.chunk.css.map",
     "static/js/2.1e492a21.chunk.js.LICENSE.txt": "/Portfolio2021/static/js/2.1e492a21.chunk.js.LICENSE.txt",
->>>>>>> f9a797ee686651d394660126bb88368c2f8fe609
     "static/media/FitUP.2ddd35ca.png": "/Portfolio2021/static/media/FitUP.2ddd35ca.png",
     "static/media/Jon4.797b4873.png": "/Portfolio2021/static/media/Jon4.797b4873.png",
     "static/media/blueMailLogo.f2e000b8.png": "/Portfolio2021/static/media/blueMailLogo.f2e000b8.png",
@@ -48,18 +31,10 @@
     "static/media/reactLogo.20adfb35.png": "/Portfolio2021/static/media/reactLogo.20adfb35.png"
   },
   "entrypoints": [
-<<<<<<< HEAD
-    "static/js/runtime-main.07621c5b.js",
-    "static/css/2.150d169a.chunk.css",
-    "static/js/2.16866c17.chunk.js",
-    "static/css/main.fd8adfa8.chunk.css",
-    "static/js/main.b3c5f56d.chunk.js"
-=======
     "static/js/runtime-main.e75918a9.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.1e492a21.chunk.js",
     "static/css/main.68794c72.chunk.css",
     "static/js/main.48c16107.chunk.js"
->>>>>>> f9a797ee686651d394660126bb88368c2f8fe609
   ]
 }

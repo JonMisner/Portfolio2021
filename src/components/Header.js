@@ -31,8 +31,8 @@ function Header() {
         <NavbarToggler onClick={toggleNavbar} className="mr-2" />
         <Collapse isOpen={!collapsed} navbar>
         <Nav navbar>
-          <div className="collapse navbar-collapse" id="navbarNav">
-            {/* <ul className="navbar-nav"> */}
+          {/* <div className="collapse navbar-collapse" id="navbarNav">
+            <ul className="navbar-nav"> */}
               <NavItem className="nav-item">
                 <NavLink href="#about" className="nav-link active nav-link">
                   About
@@ -57,7 +57,8 @@ function Header() {
                   Resume
                 </NavLink>
               </NavItem>
-          </div>
+              {/* </ul>
+          </div> */}
           </Nav>
           </Collapse>
         </div>
