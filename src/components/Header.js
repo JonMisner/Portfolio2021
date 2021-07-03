@@ -9,6 +9,7 @@ import {
   Nav,
   NavItem,
   NavLink,
+  Container
 } from "reactstrap";
 
 function Header() {
@@ -17,6 +18,7 @@ function Header() {
   const toggleNavbar = () => setCollapsed(!collapsed);
 
   return (
+    <Container>
     <header className="header" id="myHeader">
       <Navbar
         light
@@ -59,6 +61,7 @@ function Header() {
         </div>
       </Navbar>
     </header>
+    </Container>
   );
 }
 

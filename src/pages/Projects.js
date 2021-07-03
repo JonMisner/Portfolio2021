@@ -92,9 +92,9 @@ const Projects = (props) => {
 
   const slides = items.map((item) => {
     return (
-   
       <CarouselItem
-        data-interval="7000"
+        data-interval="4000"
+        // autoPlay={true}
         onExiting={() => setAnimating(true)}
         onExited={() => setAnimating(false)}
         key={item.src}

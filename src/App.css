@@ -2,6 +2,7 @@
     width: 100%;
     min-width: 800px;
 } */
+
 /* body style */
 html,
 body {
@@ -9,7 +10,7 @@ body {
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
-  min-width: 500px;
+  /* min-width: 500px; */
 }
 
 /* link styles */
@@ -226,7 +227,7 @@ body {
 }
 
 .img-fluid {
-  width: 100% !important;
+  width: 100%;
 }
 
 /* portfolio section */
@@ -485,9 +486,9 @@ body {
 }
 
 .contact-grid {
-  /* display: -webkit-box; */
+
   display: -ms-flexbox;
-  /* display: flex; */
+
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin: 10%;
@@ -530,4 +531,26 @@ body {
 
 #top-logo {
   color: #3385c6;
+}
+
+#container-fluid {
+  max-width: 100vw;
+}
+
+/* new media query for mobile devices */
+@media only screen and (max-width: 450px) {
+  #portrait {
+    height: 30%;
+    width: 40%;
+  }
+  div.col-sm-5 {
+    max-width: 50%;
+  }
+  div.container.home {
+    max-height: 70vw;
+  }
+
+  #col-img {
+    display: none;
+  }
 }
