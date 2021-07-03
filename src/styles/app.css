@@ -1,6 +1,6 @@
 body{ 
  
    color: white;
-   min-width: 800px;
-   min-height: 700px;
+   min-width: 100vw;
+   /* min-height: 100vw; */
 }

@@ -27,6 +27,7 @@ function About() {
             </Col>
             <Row>
               <div className="col about-section-font">
+<<<<<<< HEAD
                 {/* <h3 className="about-section-header">Learner</h3> */}
                 <p className="about-paragraphs">
                   A fresh full stack developer, I’m ready to create and develop
@@ -87,6 +88,54 @@ function About() {
             in tech and I am always open to new adventures!</p>
           </Col> */}
           </Row>
+=======
+
+                <p className="about-paragraphs">
+                  A Bartender and Sommelier turned Full Stack Developer. Studied
+                  at Northwestern University and gained skills in several
+                  different web development technologies, with an emphasis on
+                  MERN . Background is in the Service Industry (with my passion
+                  being wine and cocktails) and can bring that work ethic over
+                  with me to this new field. With an emphasis on mobile friendly
+                  and responsive designs, the goal is to provide polished,
+                  sleek, and engaging web applications. Furthermore, to make the
+                  UI approachable, and intuitively easy to use for even novice
+                  users.
+                </p>
+              </div>
+            </Row>
+          </Row>
+
+          <Row>
+            <div className="col col-img" id="col-img">
+              <img src={github} alt="icon" className="img-fluid" />
+            </div>
+            <div className="col col-img" id="col-img">
+              <img src={MySQL} alt="icon" className="img-fluid" />
+            </div>
+            <div className="col col-img">
+              <img src={node} alt="icon" className="img-fluid node" />
+            </div>
+            <div className="col col-img" id="col-img">
+              <img src={passport} alt="icon" className="img-fluid" />
+            </div>
+            <div className="col col-img" id="col-img">
+              <img src={foundationLogo} alt="icon" className="img-fluid" />
+            </div>
+            <div className="col col-img" id="col-img">
+              <img src={bulma} alt="icon" className="img-fluid bulma" />
+            </div>
+            <div className="col col-img">
+              <img src={mongoDB} alt="icon" className="img-fluid" />
+            </div>
+            <div className="col col-img" id="col-img">
+              <img src={express} alt="icon" className="img-fluid express" />
+            </div>
+            <div className="col col-img">
+              <img src={reactLogo} alt="icon" className="img-fluid" />
+            </div>
+          </Row>
+>>>>>>> fc004a8a181cbc0c33374f2687d0eb9abe87a8e9
         </Container>
       </section>
     </div>

@@ -7,24 +7,24 @@ import Home from "./pages/Home.js";
 import About from "./pages/About.js";
 import Projects from "./pages/Projects.js";
 import Contact from "./pages/Contact.js";
-import Footer from "./components/Footer.js";
-import Wrapper from "./components/Wrapper.js";
+// import Wrapper from "./components/Wrapper.js";
 // import Resume from "./components/resume";
+import { Jumbotron, Container } from "reactstrap"
 
 function App() {
   return (
     <Router>
-      {/* <div> */}
+     <Container className='container-fluid'>
         <Header />
-      {/* </div> */}
-      {/* <Wrapper> */}
+  
+     
         <Home />
         <About />
         <Projects />
         <Contact />
-        {/* <Resume /> */}
-      {/* </Wrapper> */}
-      {/* <Footer /> */}
+
+      </Container>
+
     </Router>
   );
 }
