@@ -540,8 +540,8 @@ body {
 /* new media query for mobile devices */
 @media only screen and (max-width: 450px) {
   #portrait {
-    height: 30%;
-    width: 40%;
+    height: 32%;
+    width: 33%;
   }
   div.col-sm-5 {
     max-width: 50%;

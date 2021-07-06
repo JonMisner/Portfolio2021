@@ -1,7 +1,7 @@
 import React from "react";
 import Col from "../components/Col.js";
 import "../App.css";
-import Portrait from "../images/Jon4.png";
+import Portrait from "../images/Jon-oval.png";
 import { Container, Row } from "reactstrap";
 
 function Home() {

@@ -6,8 +6,9 @@ import {
   CarouselIndicators,
   CarouselCaption,
   NavLink,
+  Container
 } from "reactstrap";
-import Container from "../components/Container.js";
+// import Container from "../components/Container.js";
 import Row from "../components/Row.js";
 import Col from "../components/Col.js";
 import fitup from "../images/FitUP.png";
@@ -132,7 +133,7 @@ const Projects = (props) => {
         </section>
       </div>
       <Carousel
-        data-interval="5000"
+        data-interval="4000"
         activeIndex={activeIndex}
         next={next}
         previous={previous}
